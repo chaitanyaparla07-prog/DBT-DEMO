@@ -1,0 +1,10 @@
+
+version: 2
+
+sources:
+  - name: demo
+    database: PARLA_DB
+    schema: PARLA_SCHEMA
+    tables:
+      - name: PARLA_RAW
+
